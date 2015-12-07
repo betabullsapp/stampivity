@@ -167,7 +167,7 @@ a.mouse:hover{
 	padding:5em 0;
 }
 .app-look-head h1{
-	color:#d90714;
+	color:#800080;
 	font-weight:900;
 	font-size:2em;
 	text-transform:uppercase;
@@ -307,7 +307,7 @@ a.mouse:hover{
 	padding:7em 0 8em;
 }
 .testmonial-head h3{
-	color: #d90714;
+	color: #800080;
 	font-weight: 900;
 	font-size: 2.3em;
 	text-transform: uppercase;
@@ -401,7 +401,7 @@ a.play span{
 	
 }
 .news-letter-left h3{
-	color:#d90714;
+	color:#800080;
 	font-weight:900;
 	font-size:1.8em;
 	margin:0;
@@ -581,7 +581,7 @@ ul.social-icons li{
 	margin-right:0.3em;
 }
 .contact-right-inner h3{
-	color: #d90714;
+	color: #fff;
 	font-weight: 900;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
