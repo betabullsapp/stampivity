@@ -370,6 +370,7 @@ span.line{
 .video{
 	background: url(../images/video-bg.jpg) no-repeat 0px 0px;
 	position: relative;
+	background-color:#000;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	-webkit-background-size: cover;
